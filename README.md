@@ -24,4 +24,4 @@ O projeto foi criado para treinar o html e css, mas o objetivo principal foi faz
 
 ---
 
-<h5 align='center' >Feito com :purple_heart: por <a href="https://github.com/DevAlves20" target="_blank"> DevAlves 20 </a> </h5>
+<h5 align='center' >Feito com :purple_heart: por <a href="https://github.com/DevAlves20" target="_blank">DevAlves20</a> </h5>

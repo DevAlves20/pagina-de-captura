@@ -21,9 +21,7 @@ O projeto foi criado para treinar o html e css, mas o objetivo principal foi faz
 
 ## :keyboard: Resultado
 
-**GitHub Pages:** 
-<img src="https://raw.githubusercontent.com/devalves20/pagina-de-captura/master/images/print.png" alt="print" width="700"/>
 
 ---
 
-<h5 align='center' >Feito com :purple_heart: por <a href="https://github.com/devsp011" target="_blank">DevSP</a> </h5>
+<h5 align='center' >Feito com :purple_heart: por <a href="https://github.com/DevAlves20" target="_blank">DevSP</a> </h5>

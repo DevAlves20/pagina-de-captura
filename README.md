@@ -15,7 +15,7 @@ O projeto foi criado para treinar o html e css, mas o objetivo principal foi faz
 * **Serviço:** [Mailchimp](https://mailchimp.com/)
 
 ## :keyboard: Resultado
-
+<img src="https://raw.githubusercontent.com/devsp011/pagina-de-captura/master/images/print.png" alt="print" width="700"/>
 
 
 

@@ -1,12 +1,12 @@
 # :computer: Projeto
 
-Uma pagina para divulgar um WorkShop, integrando o form com o mailchimp.
+Uma página para divulgação de um WorkShop Fictício, integrando o form com o mailchimp.
 
 ---
 
 ## :dart: Objetivo do Projeto
 
-O projeto foi criado para treinar o html e css, mas o objetivo principal foi fazer a integração do formulario com o [mailchimp](https://mailchimp.com/) que é um serviço de email marketing.
+O projeto foi criado para treinar o html e css, mas o objetivo principal foi fazer a integração do formulario com o [mailchimp](https://mailchimp.com/)
 
 ## :rocket: Tecnologias Utilizadas
 
@@ -14,14 +14,10 @@ O projeto foi criado para treinar o html e css, mas o objetivo principal foi faz
 * CSS
 * **Serviço:** [Mailchimp](https://mailchimp.com/)
 
-## :arrow_forward: Rodar o Projeto
-
-* Primeiro passo, clone o projeto em sua maquina
-* Segundo, abrir o arquivo index.html no navegar
-
 ## :keyboard: Resultado
 
 
----
 
-<h5 align='center' >Feito com :purple_heart: por <a href="https://github.com/DevAlves20" target="_blank">DevAlves20</a> </h5>
+
+
+
